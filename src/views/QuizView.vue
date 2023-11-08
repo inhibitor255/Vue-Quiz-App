@@ -39,7 +39,7 @@
           </button>
         </div>
       </header>
-      <div class="options-container flex flex-wrap mt-10">
+      <div class="options-container flex flex-wrap mt-10 justify-center">
         <RouterView/>
           <Card v-for="quiz in quizzes" :key="quiz.id" :quiz="quiz"/>
       </div>

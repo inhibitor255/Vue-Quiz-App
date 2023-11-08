@@ -4,7 +4,7 @@
 </script>
 
 <template>
-  <div class="container mx-auto w-auto h-auto dark:bg-slate-400 ">
+  <div class=" w-auto h-auto dark:bg-slate-400 ">
     <RouterView/>
   </div>
 </template>
