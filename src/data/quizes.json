@@ -1,0 +1,609 @@
+[
+    {
+        "id": 1,
+        "img": "https://marvel-b1-cdn.bc0a.com/f00000000026007/resilienteducator.com/wp-content/uploads/2012/11/AdobeStock_60467600_cup.jpg",
+        "name": "Math",
+        "questions": [
+            {
+                "id": 1,
+                "text": "8 ÷ 2(2 + 2)",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "16",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "8",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "24",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "sqrt(64) * 9",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "81",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "72",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "144",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "3 + 3 x 3 ÷ 3 - 3",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "3",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "9",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "16",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "img": "https://blogs.biomedcentral.com/on-biology/wp-content/uploads/sites/5/2017/12/DNA.png",
+        "name": "Biology",
+        "questions": [
+            {
+                "id": 1,
+                "text": "The Kreb Cycles occurs in the",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Mitochondria",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Nucleus",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Rough ER",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Cystol",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "How many oxygen molecules can hemoglobin hold",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "3",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "4",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "The cones see ___ while the rods see ___",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "black and white; color",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "color; black and white",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "3D objects; 2D shapes",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "2D shapes; 3D objects",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "img": "http://jobs.newscientist.com/getasset/c40a5488-11be-43b0-843f-a2e6ef9f0612/",
+        "name": "Chemistry",
+        "questions": [
+            {
+                "id": 1,
+                "text": "What is the composition of table salt",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "NaCl",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "K2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "NaCl2C4H7",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "CH4",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "What is Potassium's chemical symbol",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "P",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Pt",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Pts",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "K",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Which is not organinc",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "CH4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "NaCl",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "C2H6",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "C3H8",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "img": "https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/05/21144359/Physics-Quiz.jpg",
+        "name": "Physics",
+        "questions": [
+          {
+            "id": 1,
+            "text": "What is the formula for calculating the velocity of an object in free fall near the surface of the Earth?",
+            "options": [
+              {
+                "id": 1,
+                "label": "A",
+                "text": "V = g * t",
+                "isCorrect": true
+              },
+              {
+                "id": 2,
+                "label": "B",
+                "text": "V = m * a",
+                "isCorrect": false
+              },
+              {
+                "id": 3,
+                "label": "C",
+                "text": "V = d / t",
+                "isCorrect": false
+              },
+              {
+                "id": 4,
+                "label": "D",
+                "text": "V = 2 * d / t",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "Which fundamental force is responsible for holding the nucleus of an atom together?",
+            "options": [
+              {
+                "id": 1,
+                "label": "A",
+                "text": "Gravitational force",
+                "isCorrect": false
+              },
+              {
+                "id": 2,
+                "label": "B",
+                "text": "Electromagnetic force",
+                "isCorrect": false
+              },
+              {
+                "id": 3,
+                "label": "C",
+                "text": "Weak nuclear force",
+                "isCorrect": false
+              },
+              {
+                "id": 4,
+                "label": "D",
+                "text": "Strong nuclear force",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "What is the SI unit of force?",
+            "options": [
+              {
+                "id": 1,
+                "label": "A",
+                "text": "Newton",
+                "isCorrect": true
+              },
+              {
+                "id": 2,
+                "label": "B",
+                "text": "Joule",
+                "isCorrect": false
+              },
+              {
+                "id": 3,
+                "label": "C",
+                "text": "Watt",
+                "isCorrect": false
+              },
+              {
+                "id": 4,
+                "label": "D",
+                "text": "Hertz",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "In the electromagnetic spectrum, which type of radiation has the shortest wavelength?",
+            "options": [
+              {
+                "id": 1,
+                "label": "A",
+                "text": "Radio waves",
+                "isCorrect": false
+              },
+              {
+                "id": 2,
+                "label": "B",
+                "text": "Infrared",
+                "isCorrect": false
+              },
+              {
+                "id": 3,
+                "label": "C",
+                "text": "Ultraviolet",
+                "isCorrect": false
+              },
+              {
+                "id": 4,
+                "label": "D",
+                "text": "Gamma rays",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "According to Einstein's theory of relativity, what happens to an object's mass as it approaches the speed of light?",
+            "options": [
+              {
+                "id": 1,
+                "label": "A",
+                "text": "It decreases",
+                "isCorrect": false
+              },
+              {
+                "id": 2,
+                "label": "B",
+                "text": "It remains the same",
+                "isCorrect": false
+              },
+              {
+                "id": 3,
+                "label": "C",
+                "text": "It increases",
+                "isCorrect": true
+              },
+              {
+                "id": 4,
+                "label": "D",
+                "text": "It becomes zero",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "img": "https://gps.hslt.academy/wp-content/uploads/2020/06/History-quiz.jpg",
+        "name": "History",
+        "questions": [
+          {
+            "id": 1,
+            "text": "Who was the first President of the United States?",
+            "options": [
+              {
+                "id": 1,
+                "label": "A",
+                "text": "Thomas Jefferson",
+                "isCorrect": false
+              },
+              {
+                "id": 2,
+                "label": "B",
+                "text": "John Adams",
+                "isCorrect": false
+              },
+              {
+                "id": 3,
+                "label": "C",
+                "text": "George Washington",
+                "isCorrect": true
+              },
+              {
+                "id": 4,
+                "label": "D",
+                "text": "Benjamin Franklin",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "What event marked the beginning of World War I in 1914?",
+            "options": [
+              {
+                "id": 1,
+                "label": "A",
+                "text": "The sinking of the Lusitania",
+                "isCorrect": false
+              },
+              {
+                "id": 2,
+                "label": "B",
+                "text": "The assassination of Archduke Franz Ferdinand",
+                "isCorrect": true
+              },
+              {
+                "id": 3,
+                "label": "C",
+                "text": "The Treaty of Versailles",
+                "isCorrect": false
+              },
+              {
+                "id": 4,
+                "label": "D",
+                "text": "The Battle of the Somme",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "Who wrote the 'Declaration of Independence' for the United States?",
+            "options": [
+              {
+                "id": 1,
+                "label": "A",
+                "text": "Thomas Jefferson",
+                "isCorrect": true
+              },
+              {
+                "id": 2,
+                "label": "B",
+                "text": "Benjamin Franklin",
+                "isCorrect": false
+              },
+              {
+                "id": 3,
+                "label": "C",
+                "text": "John Adams",
+                "isCorrect": false
+              },
+              {
+                "id": 4,
+                "label": "D",
+                "text": "George Washington",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "In what year did Christopher Columbus first voyage to the Americas?",
+            "options": [
+              {
+                "id": 1,
+                "label": "A",
+                "text": "1492",
+                "isCorrect": true
+              },
+              {
+                "id": 2,
+                "label": "B",
+                "text": "1620",
+                "isCorrect": false
+              },
+              {
+                "id": 3,
+                "label": "C",
+                "text": "1776",
+                "isCorrect": false
+              },
+              {
+                "id": 4,
+                "label": "D",
+                "text": "1812",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "What was the name of the ship that carried the Pilgrims to North America in 1620?",
+            "options": [
+              {
+                "id": 1,
+                "label": "A",
+                "text": "Mayflower",
+                "isCorrect": true
+              },
+              {
+                "id": 2,
+                "label": "B",
+                "text": "Santa Maria",
+                "isCorrect": false
+              },
+              {
+                "id": 3,
+                "label": "C",
+                "text": "Nina",
+                "isCorrect": false
+              },
+              {
+                "id": 4,
+                "label": "D",
+                "text": "Pinta",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      }
+      
+      
+]
